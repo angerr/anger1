@@ -1,6 +1,6 @@
-token= NTM3Nzg0NDE0NTI5MTI2NDYz.DyssgQ.d05E_FJC7R6W-j6iyWUUUtf9Xo4
-owner= 402030353159684097
-prefix= r
-game= rplay
+﻿token= NTM3OTU0OTU1MTkwMDc1Mzky.DysziA.vP_g6I2ZQFckV7R940E80G_m_GM
+owner= 402030353159684097 
+prefix=1
+game= 1play
 stayinchannel=true 
 songinstatus=true
