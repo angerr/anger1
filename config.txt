@@ -1,6 +1,6 @@
 token= NTM3Nzg0NDE0NTI5MTI2NDYz.DyssgQ.d05E_FJC7R6W-j6iyWUUUtf9Xo4
 owner= 402030353159684097
-prefix= *
-game= *play
+prefix= r
+game= rplay
 stayinchannel=true 
 songinstatus=true
