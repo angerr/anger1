@@ -1,4 +1,4 @@
-token= tSmmGXNjxJjuRYhTM23IgrwASY-H
+token= tSmmGXNjxJjuRYhTM23IgrwASY-HH3km
 owner= 402030353159684097
 prefix= *
 game= *play
