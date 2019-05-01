@@ -1,6 +1,6 @@
 client.login(process.env.BOT_TOKEN);
 owner= 402030353159684097 
 prefix=r
-game= rplay
+game= wplay
 stayinchannel=true 
 songinstatus=true
