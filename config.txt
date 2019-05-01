@@ -1,4 +1,4 @@
-token= NTM3Nzg0NDE0NTI5MTI2NDYz.Dys0Uw.04uDX9eNxrt4LetkO9GHMzf0__c
+client.login(process.env.BOT_TOKEN);
 owner= 402030353159684097 
 prefix=r
 game= rplay
