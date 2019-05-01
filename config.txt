@@ -1,4 +1,4 @@
-client.login(process.env.BOT_TOKEN);
+token= NTczMjEwMDIwMTIwODg3MzA3.XMnkeg.BBzKA6Ppykhdez8yDrOPbX-1rlc 
 owner= 563159972658020382 
 prefix=w
 game= wplay
